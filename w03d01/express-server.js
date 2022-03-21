@@ -11,9 +11,9 @@ const port = 5829;
 //   next();
 //   // return;
 // });
+
 // const morganMiddleware = morgan('dev');
 // app.use(morganMiddleware);
-
 app.use(morgan('dev'));
 
 // console.log(arguments);
@@ -27,10 +27,6 @@ app.get('/about', (req, res) => {
 
 // GET /products
 app.get('/products', (req, res) => {
-  if (true) {
-    return res.send('your cookie is not valid');
-  }
-
   res.send('products page');
 });
 
