@@ -12,6 +12,10 @@ $(() => {
 
   jQuery === $
 
+  //
+  // Creating a new DOM node
+  //
+
   // const node = document.createElement("li");
   // const textnode = document.createTextNode("Water");
   // node.appendChild(textnode);
@@ -29,6 +33,10 @@ $(() => {
   // $mainList.append($lineItem);
   $mainList.prepend($lineItem);
   // $lineItem.appendTo($mainList);
+
+  //
+  // Handling user input
+  //
 
   // grab the input field
   const $inputField = $('#new-number');
@@ -57,7 +65,5 @@ $(() => {
     // set focus on the input field
     $inputField.focus();
   });
-
-
 
 });
