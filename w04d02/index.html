@@ -1,11 +1,23 @@
 <html>
   <head>
     <title>My Page</title>
+    <link href="styles.css" rel="stylesheet" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js" integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="script2.js"></script>
+    
   </head>
 
   <body>
     <h1>Welcome to my page!</h1>
     <div class="content">
+      <div>
+        <label>New fave number:</label>
+        <input id="new-number" />
+        <button id="new-number-button">Add!</button>
+      </div>
+
       <p>My Favourite Numbers</p>
       <ul id="main-list">
         <li>One</li>
@@ -13,5 +25,7 @@
         <li>Three</li>
       </ul>
     </div>
+
+    <script src="script.js"></script>
   </body>
 </html>
