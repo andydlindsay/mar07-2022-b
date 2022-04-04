@@ -5,3 +5,4 @@
 * [W02D03 - Networking with TCP and HTTP](/w02d03)
 * [W03D01 - Web Servers 101](/w03d01)
 * [W04D02 - Client Side JavaScript & jQuery](/w04d02)
+* [W05D02 - Database Design](/w05d02)

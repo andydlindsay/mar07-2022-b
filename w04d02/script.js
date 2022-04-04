@@ -5,7 +5,6 @@ $(() => {
 
 // $(document).ready(() => {
 
-
   console.log('hello from the script file');
 
   console.log(`you are logged in as ${username}`);
