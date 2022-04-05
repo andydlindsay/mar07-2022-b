@@ -8,7 +8,7 @@
 - [x] Design Concepts
 - [x] Entity Relationship Diagrams
 - [x] Convert 2 Spreadsheets
-- [x] Dinocats and Aliens ERD(s)
+- [x] Dinocats and Aliens ERD
 
 ### Primary Key
 
@@ -54,11 +54,13 @@
 - Extremely useful for reasoning about how the database should be structured
 - Can be created using pen and paper, a whiteboard, or using an online application
 
-### Breakout: Convert Two Spreadsheets
+### Convert Two Spreadsheets
 - [Gist with instruction](https://gist.github.com/andydlindsay/20e7305e853bad7b587f294b054cf8de)
 
+![Books and Authors](https://github.com/andydlindsay/mar07-2022-b/blob/master/w05d02/books_authors.drawio.png?raw=true)
+
 ### Student Suggestion: Dinosaur Cats and Aliens
-We created an ERD for a Aliens and their pet Dinocats:
+We created an ERD for Aliens and their pet Dinocats:
 
 ![Dinosaur Cats and Aliens](https://github.com/andydlindsay/mar07-2022-b/blob/master/w05d02/dinosaurcats_v_aliens.drawio.png?raw=true)
 
