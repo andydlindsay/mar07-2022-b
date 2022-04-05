@@ -60,7 +60,7 @@
 ### Student Suggestion: Dinosaur Cats and Aliens
 We created an ERD for a Aliens and their pet Dinocats:
 
-![Dinosaur Cats and Aliens](/dinosaurcats_v_aliens.drawio.png)
+![Dinosaur Cats and Aliens](https://github.com/andydlindsay/mar07-2022-b/blob/master/w05d02/dinosaurcats_v_aliens.drawio.png?raw=true)
 
 ### Useful Links
 * [Database Normalization](https://en.wikipedia.org/wiki/Database_normalization)
