@@ -4,9 +4,9 @@
 - [ ] What the heck is React?
 - [ ] Building a project w/ Create-React-App
 - [ ] Components
+- [ ] Props
 - [ ] Review of Closures
 - [ ] State
-- [ ] Props
 
 
 
