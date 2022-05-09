@@ -1,0 +1,23 @@
+<h1>All the dishes from the database for <%= @category.name %>!</h1>
+
+<!-- <a href="/categories">Go check out the categories!</a>
+
+<%= link_to 'Check out the categories please!', '/categories' %> -->
+<!-- <%= link_to 'About', [:categories] %> -->
+
+
+<%= link_to 'Check out the categories please!', categories_path %>
+
+<!-- <% @dishes.each do |dish| %>
+  <div class="dish">
+    <h2>Name: <%= dish.name %></h2>
+    <h2>Description: <%= dish.description %></h2>
+    <h2>Category: <%= dish.category.name %></h2>
+  </div>
+<% end %> -->
+
+<!-- <% @dishes.each do |dish| %>
+  <%= render 'dish', dish: dish %>
+<% end %> -->
+
+<%= render @dishes %>
