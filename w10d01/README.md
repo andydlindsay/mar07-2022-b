@@ -1,10 +1,10 @@
 # W10D01 - Rails Review
 
 ### To Do
-- [ ] "Rails Week" Conversation
+- [x] "Rails Week" Conversation
 - [ ] MVC Review
-- [ ] Quickly build simple Rails app
-- [ ] Nested Resources
+- [x] Quickly build simple Rails app
+- [x] Nested Resources
 
 ### Rails Week Convo
 * collaboration === royalty
@@ -21,6 +21,9 @@
 * very robusy docs
 
 
+/video/7/comments
+/products/42/reviews
+/maps/12/pins
 
 
 
